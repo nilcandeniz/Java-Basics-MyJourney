@@ -1,0 +1,10 @@
+package Kapsülleme;
+
+public class enumm {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
